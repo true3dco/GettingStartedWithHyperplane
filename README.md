@@ -3,7 +3,7 @@
 Its early days for us at Hyperplane, and as a result our product has some limitations we are working to address. 
 We will be using this README as a home for our roadmap, content guidelines, and any other relevant info! 
 
-We are most responsive on our discord: https://discord.gg/nw6KtV
+We are most responsive on our discord: https://discord.gg/Hs4sWQy
 
 ## Getting Started 
 Fill out the interest form here and a Rep will get back to you within 24hrs: http://bit.ly/hyperplane-signup
