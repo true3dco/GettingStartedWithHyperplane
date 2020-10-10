@@ -6,7 +6,7 @@ We will be using this README as a home for our roadmap, content guidelines, and 
 We are most responsive on our discord: https://discord.gg/Hs4sWQy
 
 ## Getting Started 
-Fill out the interest form here and a Rep will get back to you within 24hrs: http://bit.ly/hyperplane-signup
+Fill out the interest form here and a Rep will get back to you within 24hrs(or just message us on the discord): http://bit.ly/hyperplane-signup
 1. You will receive your welcome email asking for more info to populate your profile (Photo, bio, etc.)
 2. After your profile is populated, you will receive another email with a `SDK` and a `Desktop Application`
 3. Install the Desktop Application called `HyperStream`
