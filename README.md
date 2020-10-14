@@ -17,6 +17,11 @@ Fill out the interest form here and a Rep will get back to you within 24hrs(or j
 2. Hook up our SDK into your 3D Engine
 3. Run the scene either in Unity Editor or in a live game!
 
+### Setting up the Camera
+
+Currently, we expect the Camera to be set at a position of `(0, 1.6, 0)`. This is so that the scene looks good within our WebXR viewer. We are actively working
+on supporting dynamic camera position and appreciate you working with us as we smooth out our rough edges. 
+
 ## Supported Features
 * Realtime Lights (Spot, Directional, Point)
 * Meshes
